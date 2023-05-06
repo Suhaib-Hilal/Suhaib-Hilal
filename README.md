@@ -1,7 +1,7 @@
 # Hi 👋, I'm Suhaib Hilal!
 
 ## Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=_suhaib_.visitor-badge)
-I'm a Middle School Student and a beginner Python Developer.
+I'm a High School Student and an intermediate Python Developer.
 
 As a developer, I love discovering new ideas and creating new cool stuff.<br>
 I enjoy watching TV Shows.
