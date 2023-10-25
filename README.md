@@ -1,15 +1,13 @@
-# Hi 👋, I'm Suhaib Hilal!
 
-## Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=_suhaib_.visitor-badge)
-I'm a High School Student and an intermediate Python Developer.
+Hello, I'm Suhaib Hilal! 👋
 
-As a developer, I love discovering new ideas and creating new cool stuff.<br>
-I enjoy watching TV Shows.
+I'm a high school student with a passion for coding and a focus on Python development. I also dabble in JavaScript, TypeScript, and Dart. I enjoy the thrill of exploring new ideas and crafting innovative projects. When I'm not coding, you can find me immersed in my favorite TV shows.
 
-## Talking about Personal Stuffs:
-- 👨‍💻 All of my projects are available at [https://github.com/Suhaib-Hilal](https://github.com/Suhaib-Hilal)
-- 📫 How to reach me: **tantary.suhaib.main@gmail.com**
-- ⚡ Fact: **I'm a Kid!**
+### Let's Dive into My World:
 
-## GitHub Stats
-![My GitHub Status](https://github-readme-stats.vercel.app/api?username=Suhaib-Hilal&show_icons=true&theme=radical)
+- 👨‍💻 All my coding adventures are waiting for you at [My GitHub](https://github.com/Suhaib-Hilal).
+- 📫 Feel free to reach out to me at **tantary.suhaib.main@gmail.com**.
+- ⚡ Fun Fact: I might be a kid, but I'm already making a mark in the tech world!
+
+### GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suhaib-Hilal&show_icons=true&theme=radical)
