@@ -1,5 +1,5 @@
 
-### Hello, I'm Suhaib Hilal! 👋
+### Hello, I'm Suhaib! 👋
 
 - I'm a high school student with a passion for coding and a focus on Python development.
 - I also dabble in JavaScript, TypeScript, and Dart. I don't have very much of an experience in them, so I am current trying to gain experience in them as well by making huge projects.
