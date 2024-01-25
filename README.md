@@ -9,7 +9,3 @@
 
 - 👨‍💻 All my coding adventures are waiting for you at [My GitHub](https://github.com/Suhaib-Hilal).
 - 📫 Feel free to reach out to me at **tantary.suhaib.main@gmail.com**.
-- ⚡ Fun Fact: I might be a kid, but I'm already making a mark in the tech world!
-
-### GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suhaib-Hilal&show_icons=true&theme=radical)
